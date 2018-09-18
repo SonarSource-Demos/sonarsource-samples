@@ -10,7 +10,8 @@ public class App
     		// TODO fix this too..
     		int j = 5 / i;
     	}
-    	System.out.println("IN AMETHOD"); 
+    	System.out.println("IN AMETHOD");
+    	String password="XXXX";
     }
     
     public String uncoveredMethod() {
