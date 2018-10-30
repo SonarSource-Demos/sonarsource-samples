@@ -11,6 +11,7 @@ public class App
     	}
     	// TODO Add logger here
     	System.out.println("IN AMETHOD"); 
+    	//FIXME - fix this garbage
     }
     
     public String uncoveredMethod() {
