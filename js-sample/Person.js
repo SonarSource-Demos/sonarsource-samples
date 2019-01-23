@@ -12,6 +12,8 @@ Person.prototype = {
 
 };
 
+//TODO - Add another feature
+
 var a = NaN;
 
 if (a === NaN) {  // Noncompliant; always false
