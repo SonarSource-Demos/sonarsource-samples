@@ -1,1 +1,3 @@
-# sonarsource-samples
+# Samples
+
+For SonarCloud
