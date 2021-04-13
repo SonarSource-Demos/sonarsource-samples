@@ -22,6 +22,7 @@ for (var i = 0; i < strings.length; i--) {
   console.log("dead code")
 }
 
+//TODO - Fix this
 if (a !== NaN) { // Noncompliant; always true
   console.log("a is not NaN"); // this statement is not necessarily true
 }
